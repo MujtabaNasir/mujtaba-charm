@@ -17,7 +17,7 @@ The project aims to provide a python package using poetry which has 3 sub-packag
 ## Installation
 1. Install mujtaba-charm package using pip:
 ```bash
-pip install git+https://github.com/MujtabaNasir/mujtaba-charm.git
+pip install git+
 ```
 
 2. Install a specific branch "branch_uno" from mujtaba-charm package using pip:
